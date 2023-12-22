@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshehzaib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshehzaib" /> </p>
 
-- 🌱 I’m currently learning **React.Js**
-
-- 💬 Ask me about **Node.Js MongoDb**
+- 🌱 I’m currently learning **Mern Stack Development**
 
 - 📫 How to reach me **m.shehzaib.b@gmail.com**
 
