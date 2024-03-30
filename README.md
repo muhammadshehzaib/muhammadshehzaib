@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshehzaib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshehzaib" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- </> I'm a MERN Stack developer
+
+- 🌱 I’m currently learning **Blockchain and Web3.0**
 
 - 📫 How to reach me **m.shehzaib.b@gmail.com**
 
