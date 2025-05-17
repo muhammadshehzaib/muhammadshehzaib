@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehzaib</h1>
-<h3 align="center">A Full Stack Developer with 2+ years of experience</h3>
+<h3 align="center">A Full Stack Developer with 2.5+ years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshehzaib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshehzaib" /> </p>
 
