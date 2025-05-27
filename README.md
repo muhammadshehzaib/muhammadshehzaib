@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshehzaib&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshehzaib" /> </p>
 
-- 💻 I'm a MERN Stack developer with 2+ years of experience
-- 🚀 I've worked on various projects including web applications and APIs
+- 💻 I'm a MERN Stack developer with 2.5+ years of experience
+- 🚀 I've worked on various projects, including web applications and APIs
 - 🌱 I'm currently learning **Blockchain and Web3.0**
 - 📫 How to reach me **m.shehzaib.b@gmail.com**
 
