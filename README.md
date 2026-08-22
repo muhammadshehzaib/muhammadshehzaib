@@ -118,22 +118,18 @@
         <img src="https://img.shields.io/badge/Qdrant-D6123F?style=flat&logo=qdrant&logoColor=white" />
       </p>
     </td>
-
-```
-<td width="50%" valign="top">
-  <h3>🔧 API Testing Tool</h3>
-  <p>
-    A Postman-style request builder for testing REST APIs with collections,
-    environments, authentication and response inspection.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  </p>
-</td>
-```
-
+    <td width="50%" valign="top">
+      <h3>🔧 API Testing Tool</h3>
+      <p>
+        A Postman-style request builder for testing REST APIs with collections,
+        environments, authentication and response inspection.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      </p>
+    </td>
   </tr>
 
   <tr>
@@ -149,22 +145,18 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
       </p>
     </td>
-
-```
-<td width="50%" valign="top">
-  <h3>📊 Multi-Tenant SaaS</h3>
-  <p>
-    Scalable SaaS application with multi-tenancy, role-based access,
-    analytics, authentication and subscription billing.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  </p>
-</td>
-```
-
+    <td width="50%" valign="top">
+      <h3>📊 Multi-Tenant SaaS</h3>
+      <p>
+        Scalable SaaS application with multi-tenancy, role-based access,
+        analytics, authentication and subscription billing.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
   </tr>
 
   <tr>
@@ -180,22 +172,18 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
       </p>
     </td>
-
-```
-<td width="50%" valign="top">
-  <h3>🔗 Web3 dApp</h3>
-  <p>
-    Decentralized application with smart-contract interaction,
-    wallet connectivity and on-chain reads and writes.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  </p>
-</td>
-```
-
+    <td width="50%" valign="top">
+      <h3>🔗 Web3 dApp</h3>
+      <p>
+        Decentralized application with smart-contract interaction,
+        wallet connectivity and on-chain reads and writes.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -204,6 +192,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<!-- GitHub Top Languages Card -->
+<!-- NOTE: To enable private repositories stats, replace the vercel URL below with your self-hosted URL -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshehzaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<br/><br/>
 
 <img src="./github-metrics.svg" alt="GitHub metrics" />
 
@@ -277,24 +271,3 @@ Infrastructure
 ├── Redis
 ├── Message Queues
 └── Scalable Architecture
-```
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/muhammad-shehzaib-226659252">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:m.shehzaib.b@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<br/><br/>
-
-📧 **[m.shehzaib.b@gmail.com](mailto:m.shehzaib.b@gmail.com)**
-
-</div>
