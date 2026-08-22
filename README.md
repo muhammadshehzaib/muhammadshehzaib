@@ -1,8 +1,9 @@
 <!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
 <a href="https://github.com/muhammadshehzaib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Shehzaib;Full+Stack+Developer+%7C+MERN+%7C+Web3;Scalable+Systems+Builder" alt="Muhammad Shehzaib" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Shehzaib;Full+Stack+%26+Backend+Developer;MERN+%7C+Python+%7C+FastAPI+%7C+AI;Scalable+Systems+Builder" alt="Muhammad Shehzaib" />
 </a>
 
 <p>
@@ -22,59 +23,80 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with **3+ years of experience** building scalable web apps
-- ⚡ Specialized in **MERN Stack, Next.js & API architecture**
-- 🧠 Strong focus on **performance, clean code & system design**
-- 🌐 Experience across **eCommerce, SaaS & custom web solutions**
-- 🔗 Currently exploring **Blockchain, Web3 & decentralized apps**
-- 💼 Built solutions used by real clients (Upwork + freelance)
+* 💻 Full Stack & Backend Developer with **3+ years of experience** building scalable web applications
+* ⚡ Experienced with **React, Next.js, Node.js, NestJS, Python, FastAPI & Django**
+* 🏗️ Focused on **API architecture, backend systems, performance & scalable application design**
+* 🧠 Exploring **AI Engineering, RAG, LLM applications & intelligent systems**
+* 🗄️ Experienced with **MongoDB, PostgreSQL, MySQL, Prisma & TypeORM**
+* ☁️ Comfortable with **Docker, Git, AWS, Nginx, Vercel & production deployments**
+* 🔗 Experience with **Blockchain, Web3 & decentralized applications**
+* 💼 Built and delivered real-world solutions for clients through **freelance & professional work**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Each icon is its own tile so it stays visible on dark themes AND shows a hover tooltip (title="..."). -->
-
 <div align="center">
 
-**Frontend**<br/>
-<img title="JavaScript"  src="https://skillicons.dev/icons?i=js"       width="48" height="48" />
-<img title="TypeScript"  src="https://skillicons.dev/icons?i=ts"       width="48" height="48" />
-<img title="React"       src="https://skillicons.dev/icons?i=react"    width="48" height="48" />
-<img title="Next.js"     src="https://skillicons.dev/icons?i=nextjs"   width="48" height="48" />
-<img title="HTML5"       src="https://skillicons.dev/icons?i=html"     width="48" height="48" />
-<img title="CSS3"        src="https://skillicons.dev/icons?i=css"      width="48" height="48" />
-<img title="Tailwind"    src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+### 🎨 Frontend
+
+<img title="JavaScript" src="https://skillicons.dev/icons?i=js" width="48" height="48" />
+<img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="48" height="48" />
+<img title="React" src="https://skillicons.dev/icons?i=react" width="48" height="48" />
+<img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+<img title="HTML5" src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+<img title="CSS3" src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+<img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
+<img title="MUI" src="https://skillicons.dev/icons?i=materialui" width="48" height="48" />
 
 <br/><br/>
 
-**Backend**<br/>
-<img title="Node.js"     src="https://skillicons.dev/icons?i=nodejs"   width="48" height="48" />
-<img title="Express"     src="https://skillicons.dev/icons?i=express"  width="48" height="48" />
-<img title="NestJS"      src="https://skillicons.dev/icons?i=nestjs"   width="48" height="48" />
+### ⚙️ Backend & APIs
+
+<img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
+<img title="Express.js" src="https://skillicons.dev/icons?i=express" width="48" height="48" />
+<img title="NestJS" src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" />
+<img title="Python" src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+<img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" />
+<img title="Django" src="https://skillicons.dev/icons?i=django" width="48" height="48" />
 
 <br/><br/>
 
-**Database**<br/>
-<img title="MongoDB"     src="https://skillicons.dev/icons?i=mongodb"  width="48" height="48" />
-<img title="MySQL"       src="https://skillicons.dev/icons?i=mysql"    width="48" height="48" />
-<img title="PostgreSQL"  src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
-<img title="Prisma"      src="https://skillicons.dev/icons?i=prisma"   width="48" height="48" />
+### 🗄️ Databases & ORM
+
+<img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+<img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
+<img title="MySQL" src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+<img title="Redis" src="https://skillicons.dev/icons?i=redis" width="48" height="48" />
+<img title="Prisma" src="https://skillicons.dev/icons?i=prisma" width="48" height="48" />
 
 <br/><br/>
 
-**Tools & DevOps**<br/>
-<img title="Docker"      src="https://skillicons.dev/icons?i=docker"   width="48" height="48" />
-<img title="Git"         src="https://skillicons.dev/icons?i=git"      width="48" height="48" />
-<img title="GitHub"      src="https://skillicons.dev/icons?i=github"   width="48" height="48" />
-<img title="Postman"     src="https://skillicons.dev/icons?i=postman"  width="48" height="48" />
-<img title="Vercel"      src="https://skillicons.dev/icons?i=vercel"   width="48" height="48" />
+### 🤖 AI & Data
+
+<img title="Python" src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+<img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" />
+<img title="OpenAI" src="https://skillicons.dev/icons?i=openai" width="48" height="48" />
+<img title="Qdrant" src="https://skillicons.dev/icons?i=qdrant" width="48" height="48" />
 
 <br/><br/>
 
-**Web3**<br/>
-<img title="Solidity"    src="https://skillicons.dev/icons?i=solidity" width="48" height="48" />
-<img title="Ethereum"    src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" />
+### 🛠️ Tools & DevOps
+
+<img title="Docker" src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
+<img title="Git" src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+<img title="GitHub" src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+<img title="Postman" src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
+<img title="AWS" src="https://skillicons.dev/icons?i=aws" width="48" height="48" />
+<img title="Nginx" src="https://skillicons.dev/icons?i=nginx" width="48" height="48" />
+<img title="Vercel" src="https://skillicons.dev/icons?i=vercel" width="48" height="48" />
+
+<br/><br/>
+
+### 🔗 Web3
+
+<img title="Solidity" src="https://skillicons.dev/icons?i=solidity" width="48" height="48" />
+<img title="Ethereum" src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" />
 
 </div>
 
@@ -82,64 +104,98 @@
 
 ## 📌 Featured Projects
 
-<!-- Replace the placeholders below with your real repos, demos and descriptions. -->
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 API Testing Tool</h3>
-      <p>A Postman-style request builder for testing REST APIs — collections, environments and response inspection.</p>
+      <h3>🤖 AI & RAG Platform</h3>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        AI-powered application using LLMs, embeddings, vector search and
+        retrieval-augmented generation for intelligent information retrieval.
       </p>
       <p>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=flat&logo=vercel&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qdrant-D6123F?style=flat&logo=qdrant&logoColor=white" />
       </p>
     </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🔧 API Testing Tool</h3>
+  <p>
+    A Postman-style request builder for testing REST APIs with collections,
+    environments, authentication and response inspection.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  </p>
+</td>
+```
+
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🛒 eCommerce Platform</h3>
-      <p>Full-stack storefront with cart, checkout, payments and an admin dashboard. Built for scale.</p>
+      <p>
+        Full-stack eCommerce platform with product management, cart,
+        checkout, payments and an admin dashboard.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
       </p>
-      <p>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=flat&logo=vercel&logoColor=white" /></a>
-      </p>
     </td>
+
+```
+<td width="50%" valign="top">
+  <h3>📊 Multi-Tenant SaaS</h3>
+  <p>
+    Scalable SaaS application with multi-tenancy, role-based access,
+    analytics, authentication and subscription billing.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  </p>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 SaaS Dashboard</h3>
-      <p>Multi-tenant SaaS app with role-based access, analytics and subscription billing.</p>
+      <h3>🐍 Python Backend</h3>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        REST APIs and backend services built with Python, FastAPI and Django,
+        focusing on clean architecture, authentication and scalable API design.
       </p>
       <p>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=flat&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 Web3 dApp</h3>
-      <p>Decentralized app with smart-contract interaction, wallet connect and on-chain reads/writes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-      </p>
-      <p>
-        <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=flat&logo=vercel&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
       </p>
     </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🔗 Web3 dApp</h3>
+  <p>
+    Decentralized application with smart-contract interaction,
+    wallet connectivity and on-chain reads and writes.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  </p>
+</td>
+```
+
   </tr>
 </table>
 
@@ -147,19 +203,12 @@
 
 ## 📊 GitHub Stats
 
-<!--
-  This image is generated by .github/workflows/metrics.yml and COMMITTED to the repo
-  as github-metrics.svg. It renders reliably because it is a static file in YOUR repo
-  (no live Vercel call, no rate limits). It is blank until the Metrics workflow runs once.
--->
-
 <div align="center">
 
 <img src="./github-metrics.svg" alt="GitHub metrics" />
 
 <br/>
 
-<!-- This streak card works without setup; it's on a different host. -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshehzaib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
@@ -167,11 +216,6 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<!--
-  Generated by .github/workflows/snake.yml -> pushes SVGs to the "output" branch.
-  Blank until that workflow has run successfully at least once.
--->
 
 <div align="center">
 
@@ -187,8 +231,6 @@
 
 ## 🏆 Achievements
 
-<!-- Also generated by metrics.yml and committed as github-achievements.svg. -->
-
 <div align="center">
 
 <img src="./github-achievements.svg" alt="GitHub achievements" />
@@ -199,9 +241,43 @@
 
 ## 💡 Current Focus
 
-- ⚡ Building scalable applications (Postman-style API tooling)
-- 🔗 Web3 & blockchain development
-- 🧠 System design & backend architecture
+* 🤖 **AI Engineering & LLM Applications**
+* 🔎 **RAG, Vector Search & Qdrant**
+* ⚡ **FastAPI & High-Performance Backend APIs**
+* 🏗️ **System Design & Scalable Backend Architecture**
+* 🐍 **Python Backend Development with Django & FastAPI**
+* ☁️ **Cloud, Docker & Production Infrastructure**
+* 🔗 **Web3 & Blockchain Development**
+
+---
+
+## 📚 What I'm Learning
+
+```text
+AI Engineering
+├── LLM Applications
+├── RAG Systems
+├── Embeddings & Vector Search
+├── Qdrant
+└── AI Agents
+
+Backend Engineering
+├── Python
+├── FastAPI
+├── Django
+├── Node.js
+├── NestJS
+├── Distributed Systems
+└── System Design
+
+Infrastructure
+├── Docker
+├── AWS
+├── Nginx
+├── Redis
+├── Message Queues
+└── Scalable Architecture
+```
 
 ---
 
@@ -212,12 +288,13 @@
 <a href="https://linkedin.com/in/muhammad-shehzaib-226659252">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:m.shehzaib.b@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br/><br/>
 
-📧 **m.shehzaib.b@gmail.com**
+📧 **[m.shehzaib.b@gmail.com](mailto:m.shehzaib.b@gmail.com)**
 
 </div>
