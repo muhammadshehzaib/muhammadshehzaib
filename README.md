@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack & Backend Developer with **3+ years of experience** building scalable web applications
+* 💻 Full Stack & Backend Developer with **4+ years of experience** building scalable web applications
 * ⚡ Experienced with **React, Next.js, Node.js, NestJS, Python, FastAPI & Django**
 * 🏗️ Focused on **API architecture, backend systems, performance & scalable application design**
 * 🧠 Exploring **AI Engineering, RAG, LLM applications & intelligent systems**
